@@ -1,0 +1,6 @@
+1. Crear app en python.
+2. Crear Dockerfile
+3. Abrir docker desktop (para activarlo)
+4. cmd cd carpeta de la app -> as admin
+5. docker build -t "nombre-app" .
+6. docker run "hello-world"
